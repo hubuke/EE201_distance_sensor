@@ -1,0 +1,4 @@
+# This is a comment.  Ignore all files in a directory:
+build/
+# Ignore all files with a specific extension:
+*.log
